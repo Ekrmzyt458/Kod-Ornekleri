@@ -52,9 +52,9 @@ export const videos = [
       dislike: 10
     },
     info: {
-      konu: "Adamin biri var dolandirici izlemesi sariyor",
+      konu: "24 yaşında genç ve hırslı bir adam olan Jordan Belfort, yatırımcıları aldatarak kısa zamanda köşeyi döner. Kısa zamanda tonla para kazanıp o parayı aynı zamanda çabucak harcayabilen birisi olur. Uyuşturucu kullanan pis bir hayatı vardır. Film, gerçek bir hikayeden uyarlanmıştır ve Amerikan borsasında çalışan komisyoncu Jordan Belfort'un biyografisinden esinlenilmiştir.",
       oyuncular: "Leonardo Di Caprio, Margot Robbie, Jonah Hill",
-      yönetmen: "Martin Scrosse",
+      yönetmen: "Martin Scorsese",
       ülke: "ABD",
       tarih: "27.01.2013"
     },
