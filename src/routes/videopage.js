@@ -12,9 +12,9 @@ export async function loader({params}) {
   const currentVideo = videos.find(video => video.id.toString() === param)
 
   const users = {
-    id: "qwe",
-    like: ["asdfa"],
-    dislike: ["babylon"]
+    id: 1,
+    like: ["Esaretin Bedeli, Yüzüklerin Efendisi: Kralın Dönüşü"],
+    dislike: ["Forrest Gump"]
   }
 
   return {currentVideo, users, videos}
