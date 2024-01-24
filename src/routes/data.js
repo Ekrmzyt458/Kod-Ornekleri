@@ -20,19 +20,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -60,19 +60,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -100,19 +100,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -140,19 +140,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -180,19 +180,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -220,19 +220,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -260,19 +260,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -300,24 +300,24 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
       }
-    ]    
+    ]  
   },
   {
     id: 9,
@@ -340,24 +340,24 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
       }
-    ]   
+    ] 
   },
   {
     id: 10,
@@ -380,24 +380,24 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
       }
-    ]    
+    ]  
   },
   {
     id: 11,
@@ -420,24 +420,24 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
       }
-    ]    
+    ]  
   },
   {
     id: 12,
@@ -460,19 +460,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -500,19 +500,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
@@ -540,24 +540,24 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
       }
-    ]    
+    ]  
   },
   {
     id: 15,
@@ -580,24 +580,24 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
       }
-    ]    
+    ]  
   },
   {
     id: 16,
@@ -620,19 +620,19 @@ export const videos = [
     },
     comments: [
       {
-        userId: "qwesdachşad",
+        userId: 1,
         username: "Ali",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Harika bir film",
       },
       {
-        userId: "asdffxcv",
+        userId: 2,
         username: "Rıza",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "Pek beğenemedim"
       },
       {
-        userId: "qwfxcbzxc",
+        userId: 3,
         username: "Ekrem",
         userPhoto: "/assets/channel-12.jpeg",
         comment: "On numara film"
